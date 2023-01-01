@@ -17,7 +17,7 @@
 		<nav class="navbar navbar-expand-md navbar-dark"
 			style="background-color: blue">
 			<div>
-				<a href="https://www.xadmin.net" class="navbar-brand"> User Management Application </a>
+				<a href="/UserManagement/list" class="navbar-brand"> User Management Application </a>
 			</div>
 
 			<ul class="navbar-nav">
@@ -75,5 +75,14 @@
 			</div>
 		</div>
 	</div>
+	<br>
+	<footer class="bg-light text-center text-lg-start">
+		  <!-- Copyright -->
+		  <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+		    © 2022 Copyright:
+		    <a class="text-dark" href="https://www.hackerrank.com/singhajeet335">Ajeet Singh</a>
+		  </div>
+		  <!-- Copyright -->
+		</footer>
 </body>
 </html>
